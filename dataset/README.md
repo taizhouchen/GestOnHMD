@@ -1,4 +1,4 @@
-[Google Drive Link](https://drive.google.com/drive/folders/1xisYMozyvnfNudMXd-JlNMPfj43MRRQ8?usp=sharing)
+Dataset was available on [Google Drive](https://drive.google.com/drive/folders/1xisYMozyvnfNudMXd-JlNMPfj43MRRQ8?usp=sharing)
 
 Files was named in format `label_face_index`
 
