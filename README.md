@@ -34,4 +34,4 @@ The repository contains our dataset and code for on-cardboard gesture recognitio
 
 ## Record your own data
 
-You can make your own dataset using [our data collection tool](GitHub.com/taizhouchen/GestOnHMD_DataCollection). 
+You can make your own dataset using [our data collection tool](https://github.com/taizhouchen/GestOnHMD_DataCollection). 
