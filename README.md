@@ -30,3 +30,8 @@ The repository contains our dataset and code for on-cardboard gesture recognitio
 - `-test_users` TEST_USERS [TEST_USERS ...] User_ID list for testing. Default using all users
 - `-val_users` VAL_USERS [VAL_USERS ...] User_ID list for validating. Default validation set is 0.2 subset of training data
 
+
+
+## Record your own data
+
+You can make your own dataset using [our data collection tool](GitHub.com/taizhouchen/GestOnHMD_DataCollection). 
