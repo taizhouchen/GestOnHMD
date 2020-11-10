@@ -1,7 +1,11 @@
 # GestOnHMD
- Dataset and training code for paper: GestOnBoard: Enabling Gesture-based Interaction on Low-cost VR Head-Mounted Display
+ Dataset and training code for paper
+
+### GestOnBoard: Enabling Gesture-based Interaction on Low-cost VR Head-Mounted Display
 
 
+
+The repository contains our dataset and code for on-cardboard gesture recognition. 
 
 ## Parameters: 
 
