@@ -5,7 +5,7 @@
 
 The repository contains our dataset and code for on-cardboard gesture recognition. 
 
-## Parameters: 
+## Parameters for training: 
 
 - `-data_path` Path to data dictionary. A valid data dictionary hierarchy is: data/[user_ID]/[Face]/*.wav
 - `-model_path` Path to saved model file
